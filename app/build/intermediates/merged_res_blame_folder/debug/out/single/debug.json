@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_background.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xxxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_follow_rv.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/follow_rv.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/navigation_mobile_navigation.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/font_aldrich.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/font/aldrich.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_loading.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/loading.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_reel_dg.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/reel_dg.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_send.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/send.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_activity_login.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_search_rv.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/search_rv.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_activity_sign_up.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_fragment_my_reels.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/fragment_my_reels.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/xml_backup_rules.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-hdpi_ic_launcher_background.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-hdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/xml_data_extraction_rules.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_search.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/search.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_activity_post.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/activity_post.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_fragment_reel.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/fragment_reel.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_activity_home.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xhdpi_ic_launcher_background.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/menu_option_menu.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/menu/option_menu.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_home.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/home.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_post.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/post.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_add.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/add.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_user.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/user.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_plus.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/plus.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_seach_box.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/seach_box.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_instagram.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/instagram.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_fragment_search.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_meta_logo.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/meta_logo.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-mdpi_ic_launcher_background.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-mdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_fragment_my_post.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/fragment_my_post.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_activity_main.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_my_post_rv_desing.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/my_post_rv_desing.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_video.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/video.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_fragment_add.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/fragment_add.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_heart.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/heart.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_reel.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/reel.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_post_rv.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/post_rv.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_save.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/save.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_background.webp.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/mipmap-xxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_fragment_profile.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_like.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/like.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_fragment_home.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/drawable_profile.png.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/drawable/profile.png"
+    },
+    {
+        "merged": "com.neatroots.instagramclone.app-merged_res-57:/layout_activity_reel.xml.flat",
+        "source": "com.neatroots.instagramclone.app-main-59:/layout/activity_reel.xml"
+    }
+]

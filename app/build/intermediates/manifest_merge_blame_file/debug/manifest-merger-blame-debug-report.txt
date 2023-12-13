@@ -1,0 +1,361 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.neatroots.instagramclone"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:25:5-67
+11-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:25:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:26:5-79
+12-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:26:22-76
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/b56696f2b9e4c9e8648e40475aa9f4d0/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+15        android:name="com.neatroots.instagramclone.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/b56696f2b9e4c9e8648e40475aa9f4d0/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/b56696f2b9e4c9e8648e40475aa9f4d0/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.neatroots.instagramclone.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/b56696f2b9e4c9e8648e40475aa9f4d0/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/b56696f2b9e4c9e8648e40475aa9f4d0/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:5:5-46:19
+21        android:allowBackup="true"
+21-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:7:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/b56696f2b9e4c9e8648e40475aa9f4d0/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:8:9-65
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:9:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:10:9-43
+28        android:label="INSTAGRAM PRO"
+28-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:11:9-38
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:12:9-54
+30        android:supportsRtl="true"
+30-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:13:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.InstagramClone" >
+32-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:14:9-52
+33        <activity
+33-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:17:9-19:40
+34            android:name="com.neatroots.instagramclone.Post.ReelActivity"
+34-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:18:13-46
+35            android:exported="false" />
+35-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:19:13-37
+36        <activity
+36-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:20:9-22:40
+37            android:name="com.neatroots.instagramclone.Post.PostActivity"
+37-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:21:13-46
+38            android:exported="false" />
+38-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:22:13-37
+39        <activity
+39-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:23:9-25:40
+40            android:name="com.neatroots.instagramclone.LoginActivity"
+40-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:24:13-42
+41            android:exported="false" />
+41-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:25:13-37
+42        <activity
+42-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:26:9-29:59
+43            android:name="com.neatroots.instagramclone.HomeActivity"
+43-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:27:13-41
+44            android:exported="false"
+44-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:28:13-37
+45            android:label="@string/title_activity_home" />
+45-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:29:13-56
+46        <activity
+46-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:30:9-32:40
+47            android:name="com.neatroots.instagramclone.SignUpActivity"
+47-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:31:13-43
+48            android:exported="false" />
+48-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:32:13-37
+49        <activity
+49-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:33:9-41:20
+50            android:name="com.neatroots.instagramclone.MainActivity"
+50-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:34:13-41
+51            android:exported="true" >
+51-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:35:13-36
+52            <intent-filter>
+52-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:36:13-40:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:37:17-69
+53-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:37:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:39:17-77
+55-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:39:27-74
+56            </intent-filter>
+57        </activity>
+58
+59        <meta-data
+59-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:43:9-45:57
+60            android:name="preloaded_fonts"
+60-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:44:13-43
+61            android:resource="@array/preloaded_fonts" />
+61-->/Users/edwincervantesfranco/Downloads/instagramclone-master/app/src/main/AndroidManifest.xml:45:13-54
+62
+63        <activity
+63-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:29:9-46:20
+64            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+64-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:30:13-80
+65            android:excludeFromRecents="true"
+65-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:31:13-46
+66            android:exported="true"
+66-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:32:13-36
+67            android:launchMode="singleTask"
+67-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:33:13-44
+68            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+68-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:34:13-72
+69            <intent-filter>
+69-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:35:13-45:29
+70                <action android:name="android.intent.action.VIEW" />
+70-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:17-69
+70-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:25-66
+71
+72                <category android:name="android.intent.category.DEFAULT" />
+72-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:17-76
+72-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:27-73
+73                <category android:name="android.intent.category.BROWSABLE" />
+73-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:17-78
+73-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:27-75
+74
+75                <data
+75-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:41:17-44:51
+76                    android:host="firebase.auth"
+76-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:42:21-49
+77                    android:path="/"
+77-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:43:21-37
+78                    android:scheme="genericidp" />
+78-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:44:21-48
+79            </intent-filter>
+80        </activity>
+81        <activity
+81-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:47:9-64:20
+82            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+82-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:48:13-79
+83            android:excludeFromRecents="true"
+83-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:49:13-46
+84            android:exported="true"
+84-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:50:13-36
+85            android:launchMode="singleTask"
+85-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:51:13-44
+86            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+86-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:52:13-72
+87            <intent-filter>
+87-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:53:13-63:29
+88                <action android:name="android.intent.action.VIEW" />
+88-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:17-69
+88-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:36:25-66
+89
+90                <category android:name="android.intent.category.DEFAULT" />
+90-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:17-76
+90-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:38:27-73
+91                <category android:name="android.intent.category.BROWSABLE" />
+91-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:17-78
+91-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:39:27-75
+92
+93                <data
+93-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:41:17-44:51
+94                    android:host="firebase.auth"
+94-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:42:21-49
+95                    android:path="/"
+95-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:43:21-37
+96                    android:scheme="recaptcha" />
+96-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:44:21-48
+97            </intent-filter>
+98        </activity>
+99
+100        <service
+100-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:66:9-72:19
+101            android:name="com.google.firebase.components.ComponentDiscoveryService"
+101-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:67:13-84
+102            android:directBootAware="true"
+102-->[com.google.firebase:firebase-common:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6acc581649ace3d978fb134c839037f0/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+103            android:exported="false" >
+103-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:68:13-37
+104            <meta-data
+104-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:69:13-71:85
+105                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+105-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:70:17-109
+106                android:value="com.google.firebase.components.ComponentRegistrar" />
+106-->[com.google.firebase:firebase-auth:22.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/f291930883a5bdeebf4d2549d4899497/transformed/firebase-auth-22.3.0/AndroidManifest.xml:71:17-82
+107            <meta-data
+107-->[com.google.firebase:firebase-firestore:24.10.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6b4080d619cfe2a8da46015fbfae56b6/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:17:13-19:85
+108                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+108-->[com.google.firebase:firebase-firestore:24.10.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6b4080d619cfe2a8da46015fbfae56b6/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:18:17-122
+109                android:value="com.google.firebase.components.ComponentRegistrar" />
+109-->[com.google.firebase:firebase-firestore:24.10.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6b4080d619cfe2a8da46015fbfae56b6/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:19:17-82
+110            <meta-data
+110-->[com.google.firebase:firebase-firestore:24.10.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6b4080d619cfe2a8da46015fbfae56b6/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:20:13-22:85
+111                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+111-->[com.google.firebase:firebase-firestore:24.10.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6b4080d619cfe2a8da46015fbfae56b6/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:21:17-111
+112                android:value="com.google.firebase.components.ComponentRegistrar" />
+112-->[com.google.firebase:firebase-firestore:24.10.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6b4080d619cfe2a8da46015fbfae56b6/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:22:17-82
+113            <meta-data
+113-->[com.google.firebase:firebase-storage:20.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/3901bce34504102200c6b95966b837aa/transformed/firebase-storage-20.3.0/AndroidManifest.xml:30:13-32:85
+114                android:name="com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar"
+114-->[com.google.firebase:firebase-storage:20.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/3901bce34504102200c6b95966b837aa/transformed/firebase-storage-20.3.0/AndroidManifest.xml:31:17-118
+115                android:value="com.google.firebase.components.ComponentRegistrar" />
+115-->[com.google.firebase:firebase-storage:20.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/3901bce34504102200c6b95966b837aa/transformed/firebase-storage-20.3.0/AndroidManifest.xml:32:17-82
+116            <meta-data
+116-->[com.google.firebase:firebase-storage:20.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/3901bce34504102200c6b95966b837aa/transformed/firebase-storage-20.3.0/AndroidManifest.xml:33:13-35:85
+117                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+117-->[com.google.firebase:firebase-storage:20.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/3901bce34504102200c6b95966b837aa/transformed/firebase-storage-20.3.0/AndroidManifest.xml:34:17-107
+118                android:value="com.google.firebase.components.ComponentRegistrar" />
+118-->[com.google.firebase:firebase-storage:20.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/3901bce34504102200c6b95966b837aa/transformed/firebase-storage-20.3.0/AndroidManifest.xml:35:17-82
+119            <meta-data
+119-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/538638e331f50919a4784d59e3b1d6cc/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:25:13-27:85
+120                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar"
+120-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/538638e331f50919a4784d59e3b1d6cc/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:26:17-120
+121                android:value="com.google.firebase.components.ComponentRegistrar" />
+121-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/538638e331f50919a4784d59e3b1d6cc/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:27:17-82
+122            <meta-data
+122-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/538638e331f50919a4784d59e3b1d6cc/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:28:13-30:85
+123                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+123-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/538638e331f50919a4784d59e3b1d6cc/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:29:17-117
+124                android:value="com.google.firebase.components.ComponentRegistrar" />
+124-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/538638e331f50919a4784d59e3b1d6cc/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:30:17-82
+125            <meta-data
+125-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/d978fc310c64cbb2745d8ae45bb9de85/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+126                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+126-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/d978fc310c64cbb2745d8ae45bb9de85/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+127                android:value="com.google.firebase.components.ComponentRegistrar" />
+127-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/d978fc310c64cbb2745d8ae45bb9de85/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+128            <meta-data
+128-->[com.google.firebase:firebase-common:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6acc581649ace3d978fb134c839037f0/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+129                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+129-->[com.google.firebase:firebase-common:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6acc581649ace3d978fb134c839037f0/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+130                android:value="com.google.firebase.components.ComponentRegistrar" />
+130-->[com.google.firebase:firebase-common:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6acc581649ace3d978fb134c839037f0/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+131        </service>
+132
+133        <provider
+133-->[androidx.emoji2:emoji2:1.2.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/be7b0421062971a40b2d68d7404a829f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+134            android:name="androidx.startup.InitializationProvider"
+134-->[androidx.emoji2:emoji2:1.2.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/be7b0421062971a40b2d68d7404a829f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+135            android:authorities="com.neatroots.instagramclone.androidx-startup"
+135-->[androidx.emoji2:emoji2:1.2.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/be7b0421062971a40b2d68d7404a829f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+136            android:exported="false" >
+136-->[androidx.emoji2:emoji2:1.2.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/be7b0421062971a40b2d68d7404a829f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+137            <meta-data
+137-->[androidx.emoji2:emoji2:1.2.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/be7b0421062971a40b2d68d7404a829f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+138                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+138-->[androidx.emoji2:emoji2:1.2.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/be7b0421062971a40b2d68d7404a829f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+139                android:value="androidx.startup" />
+139-->[androidx.emoji2:emoji2:1.2.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/be7b0421062971a40b2d68d7404a829f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+140            <meta-data
+140-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/aee2c2ec4e8bbd686d207c9417f5703c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+141                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+141-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/aee2c2ec4e8bbd686d207c9417f5703c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+142                android:value="androidx.startup" />
+142-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/aee2c2ec4e8bbd686d207c9417f5703c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+143            <meta-data
+143-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+144                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+144-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+145                android:value="androidx.startup" />
+145-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+146        </provider>
+147        <provider
+147-->[com.google.firebase:firebase-common:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6acc581649ace3d978fb134c839037f0/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+148            android:name="com.google.firebase.provider.FirebaseInitProvider"
+148-->[com.google.firebase:firebase-common:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6acc581649ace3d978fb134c839037f0/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+149            android:authorities="com.neatroots.instagramclone.firebaseinitprovider"
+149-->[com.google.firebase:firebase-common:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6acc581649ace3d978fb134c839037f0/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+150            android:directBootAware="true"
+150-->[com.google.firebase:firebase-common:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6acc581649ace3d978fb134c839037f0/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+151            android:exported="false"
+151-->[com.google.firebase:firebase-common:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6acc581649ace3d978fb134c839037f0/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+152            android:initOrder="100" />
+152-->[com.google.firebase:firebase-common:20.4.2] /Users/edwincervantesfranco/Downloads/caches/transforms-3/6acc581649ace3d978fb134c839037f0/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+153
+154        <activity
+154-->[com.google.android.gms:play-services-base:18.0.1] /Users/edwincervantesfranco/Downloads/caches/transforms-3/54aebf6968ab5c0bd53f02ce3fd1ae3a/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+155            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+155-->[com.google.android.gms:play-services-base:18.0.1] /Users/edwincervantesfranco/Downloads/caches/transforms-3/54aebf6968ab5c0bd53f02ce3fd1ae3a/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+156            android:exported="false"
+156-->[com.google.android.gms:play-services-base:18.0.1] /Users/edwincervantesfranco/Downloads/caches/transforms-3/54aebf6968ab5c0bd53f02ce3fd1ae3a/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+157            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+157-->[com.google.android.gms:play-services-base:18.0.1] /Users/edwincervantesfranco/Downloads/caches/transforms-3/54aebf6968ab5c0bd53f02ce3fd1ae3a/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+158
+159        <meta-data
+159-->[com.google.android.gms:play-services-basement:18.1.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/50540e835c554f40272fc58ec1179482/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+160            android:name="com.google.android.gms.version"
+160-->[com.google.android.gms:play-services-basement:18.1.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/50540e835c554f40272fc58ec1179482/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+161            android:value="@integer/google_play_services_version" />
+161-->[com.google.android.gms:play-services-basement:18.1.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/50540e835c554f40272fc58ec1179482/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+162
+163        <uses-library
+163-->[androidx.window:window:1.0.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/065b2a5105c45c331e1c5b86b15c0309/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+164            android:name="androidx.window.extensions"
+164-->[androidx.window:window:1.0.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/065b2a5105c45c331e1c5b86b15c0309/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+165            android:required="false" />
+165-->[androidx.window:window:1.0.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/065b2a5105c45c331e1c5b86b15c0309/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+166        <uses-library
+166-->[androidx.window:window:1.0.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/065b2a5105c45c331e1c5b86b15c0309/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+167            android:name="androidx.window.sidecar"
+167-->[androidx.window:window:1.0.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/065b2a5105c45c331e1c5b86b15c0309/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+168            android:required="false" />
+168-->[androidx.window:window:1.0.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/065b2a5105c45c331e1c5b86b15c0309/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+169
+170        <provider
+170-->[com.squareup.picasso:picasso:2.8] /Users/edwincervantesfranco/Downloads/caches/transforms-3/1eeee6aa6c5990fa9468424534b1955f/transformed/picasso-2.8/AndroidManifest.xml:8:9-11:40
+171            android:name="com.squareup.picasso.PicassoProvider"
+171-->[com.squareup.picasso:picasso:2.8] /Users/edwincervantesfranco/Downloads/caches/transforms-3/1eeee6aa6c5990fa9468424534b1955f/transformed/picasso-2.8/AndroidManifest.xml:9:13-64
+172            android:authorities="com.neatroots.instagramclone.com.squareup.picasso"
+172-->[com.squareup.picasso:picasso:2.8] /Users/edwincervantesfranco/Downloads/caches/transforms-3/1eeee6aa6c5990fa9468424534b1955f/transformed/picasso-2.8/AndroidManifest.xml:10:13-72
+173            android:exported="false" />
+173-->[com.squareup.picasso:picasso:2.8] /Users/edwincervantesfranco/Downloads/caches/transforms-3/1eeee6aa6c5990fa9468424534b1955f/transformed/picasso-2.8/AndroidManifest.xml:11:13-37
+174
+175        <receiver
+175-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+176            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+176-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+177            android:directBootAware="false"
+177-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+178            android:enabled="true"
+178-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+179            android:exported="true"
+179-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+180            android:permission="android.permission.DUMP" >
+180-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+181            <intent-filter>
+181-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+182                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+182-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+182-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+183            </intent-filter>
+184            <intent-filter>
+184-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+185                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+185-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+185-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+186            </intent-filter>
+187            <intent-filter>
+187-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+188                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+188-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+188-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+189            </intent-filter>
+190            <intent-filter>
+190-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+191                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+191-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+191-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/edwincervantesfranco/Downloads/caches/transforms-3/9e0faaed1b7a08f24cd72b36e7d37561/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+192            </intent-filter>
+193        </receiver>
+194    </application>
+195
+196</manifest>
